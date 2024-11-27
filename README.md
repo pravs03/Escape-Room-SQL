@@ -1,4 +1,8 @@
-** This project was made in accord to the CFG Intro to Data & SQL kickstarter course.**
+This project was created as part of the CFG Intro to Data & SQL Kickstarter course.
 
-My SQL is based on an Escape Room Company. I got the idea from a page on SQL projects, it was an easy choice. The database tracks different rooms, players, and sessions to make booking and managing easier.
+The SQL database simulates an Escape Room company, inspired by a recommended SQL project idea. It efficiently manages information about rooms, players, and booking sessions, streamlining the process of scheduling and tracking activities.
 
+*This repository contains:
+- An EER diagram
+- SQL code (along with a backup)
+- Documentation of the tasks completed and their corresponding results
